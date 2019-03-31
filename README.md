@@ -1,4 +1,4 @@
-#This File is in ipthon notebook
+#This File is in ipython notebook
 
 #Use Python 3
 
