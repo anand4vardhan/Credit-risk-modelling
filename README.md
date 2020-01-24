@@ -12,4 +12,4 @@
 
 #f2.ipynb is for imputation and stratified sampling.
 
-#f3.ipynb is for modelling and variable selection and finding the cutoff.
+#f5.ipynb is for modelling and variable selection and finding the cutoff.
